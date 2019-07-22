@@ -1,2 +1,0 @@
-C:\Users\Kyle\Documents\Unreal Projects\River_Splines_Backup\Intermediate\Build\Win64\UE4Editor\Development\River_Splines\Definitions.River_Splines.h
-c:\users\kyle\documents\unreal projects\river_splines_backup\source\river_splines\River_Splines.h
