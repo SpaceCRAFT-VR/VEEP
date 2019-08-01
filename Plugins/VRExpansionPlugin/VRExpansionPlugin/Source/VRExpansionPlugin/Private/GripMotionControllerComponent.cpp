@@ -2224,10 +2224,9 @@ void UGripMotionControllerComponent::Drop_Implementation(const FBPActorGripInfor
 							if (root->IsSimulatingPhysics() != bSimulate)
 							{
 								root->SetSimulatePhysics(bSimulate);
+								if (bSimulate)
+									root->WakeAllRigidBodies();
 							}
-
-							if (bSimulate)
-								root->WakeAllRigidBodies();
 						}
 
 						root->UpdateComponentToWorld(); // This fixes the late update offset
@@ -2329,10 +2328,9 @@ void UGripMotionControllerComponent::Drop_Implementation(const FBPActorGripInfor
 						if (root->IsSimulatingPhysics() != bSimulate)
 						{
 							root->SetSimulatePhysics(bSimulate);
+							if (bSimulate)
+								root->WakeAllRigidBodies();
 						}
-
-						if (bSimulate)
-							root->WakeAllRigidBodies();
 					}
 
 					root->UpdateComponentToWorld(); // This fixes the late update offset
@@ -3880,6 +3878,7 @@ bool UGripMotionControllerComponent::DestroyPhysicsHandle(const FBPActorGripInfo
 				vel += FVector::CrossProduct(aVel, rBodyInstance->GetCOMPosition() - originalCOM);
 				rBodyInstance->SetLinearVelocity(vel, false);
 			}
+
 		}
 	}
 
@@ -4027,8 +4026,8 @@ bool UGripMotionControllerComponent::SetUpPhysicsHandle(const FBPActorGripInform
 				PxRigidDynamic* KinActor = Scene->getPhysics().createRigidDynamic(KinPose);
 				KinActor->setRigidBodyFlag(PxRigidBodyFlag::eKINEMATIC, true);
 
-				KinActor->setMass(1.0f); // 1.0f;
-				KinActor->setMassSpaceInertiaTensor(PxVec3(1.0f, 1.0f, 1.0f));// PxVec3(1.0f, 1.0f, 1.0f));
+				KinActor->setMass(0.0f); // 1.0f;
+				KinActor->setMassSpaceInertiaTensor(PxVec3(0.0f, 0.0f, 0.0f));// PxVec3(1.0f, 1.0f, 1.0f));
 				KinActor->setMaxDepenetrationVelocity(PX_MAX_F32);
 
 				// No bodyinstance
