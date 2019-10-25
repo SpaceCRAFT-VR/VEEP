@@ -6,8 +6,8 @@
 /NAME:"UE4Editor-OpenVRExpansionPlugin.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\neil\Documents\GitHub\VEEP\Intermediate\Build\Win64\VEEPEditor\Development\Engine\SharedPCH.Engine.h.obj"
-"C:\Users\neil\Documents\GitHub\VEEP\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Module.OpenVRExpansionPlugin.cpp.obj"
-"C:\Users\neil\Documents\GitHub\VEEP\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Module.OpenVRExpansionPlugin.gen.cpp.obj"
-"C:\Users\neil\Documents\GitHub\VEEP\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\PCLaunch.rc.res"
-/OUT:"C:\Users\neil\Documents\GitHub\VEEP\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\UE4Editor-OpenVRExpansionPlugin.lib"
+"C:\Users\ASTRO\Documents\GitHub\VEEP\Intermediate\Build\Win64\VEEPEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\ASTRO\Documents\GitHub\VEEP\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Module.OpenVRExpansionPlugin.cpp.obj"
+"C:\Users\ASTRO\Documents\GitHub\VEEP\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Module.OpenVRExpansionPlugin.gen.cpp.obj"
+"C:\Users\ASTRO\Documents\GitHub\VEEP\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\PCLaunch.rc.res"
+/OUT:"C:\Users\ASTRO\Documents\GitHub\VEEP\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\UE4Editor-OpenVRExpansionPlugin.lib"
