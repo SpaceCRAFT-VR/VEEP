@@ -30,6 +30,10 @@
 		{
 			"Name": "UDPCommunication",
 			"Enabled": true
+		},
+		{
+			"Name": "Voxel",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
