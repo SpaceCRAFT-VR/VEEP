@@ -24,7 +24,7 @@
 /wd4838
 /we4668
 /I .
-/I C:\Users\neil\Documents\GitHub\VEEP\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Private
+/I C:\Users\AstroMONSTER\Documents\GitHub\VEEP\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Private
 /I ..\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\UE4Editor\Inc\OnlineSubsystem
 /I ..\Plugins\Online\OnlineSubsystem
 /I ..\Plugins\Online\OnlineSubsystem\Source
@@ -78,10 +78,10 @@
 /I ..\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes
 /I ..\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Public
 /I ..\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils
-/I C:\Users\neil\Documents\GitHub\VEEP\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions
-/I C:\Users\neil\Documents\GitHub\VEEP\Plugins\AdvancedSessions\AdvancedSessions\Source
-/I C:\Users\neil\Documents\GitHub\VEEP\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes
-/I C:\Users\neil\Documents\GitHub\VEEP\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions
+/I C:\Users\AstroMONSTER\Documents\GitHub\VEEP\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions
+/I C:\Users\AstroMONSTER\Documents\GitHub\VEEP\Plugins\AdvancedSessions\AdvancedSessions\Source
+/I C:\Users\AstroMONSTER\Documents\GitHub\VEEP\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes
+/I C:\Users\AstroMONSTER\Documents\GitHub\VEEP\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\CoreUObject
 /I Runtime\CoreUObject\Public
 /I Runtime\CoreUObject
@@ -433,18 +433,18 @@
 /I ThirdParty
 /I ThirdParty\libSampleRate\Public
 /I ThirdParty\libSampleRate
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
-/FI"C:\Users\neil\Documents\GitHub\VEEP\Intermediate\Build\Win64\VEEPEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"C:\Users\neil\Documents\GitHub\VEEP\Intermediate\Build\Win64\VEEPEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"C:\Users\neil\Documents\GitHub\VEEP\Intermediate\Build\Win64\VEEPEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\neil\Documents\GitHub\VEEP\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Module.AdvancedSessions.cpp"
-/FI"C:\Users\neil\Documents\GitHub\VEEP\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Definitions.AdvancedSessions.h"
-/Fo"C:\Users\neil\Documents\GitHub\VEEP\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Module.AdvancedSessions.cpp.obj"
+/FI"C:\Users\AstroMONSTER\Documents\GitHub\VEEP\Intermediate\Build\Win64\VEEPEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"C:\Users\AstroMONSTER\Documents\GitHub\VEEP\Intermediate\Build\Win64\VEEPEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"C:\Users\AstroMONSTER\Documents\GitHub\VEEP\Intermediate\Build\Win64\VEEPEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"C:\Users\AstroMONSTER\Documents\GitHub\VEEP\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Module.AdvancedSessions.cpp"
+/FI"C:\Users\AstroMONSTER\Documents\GitHub\VEEP\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Definitions.AdvancedSessions.h"
+/Fo"C:\Users\AstroMONSTER\Documents\GitHub\VEEP\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Module.AdvancedSessions.cpp.obj"
 /TP
 /GR-
 /W4
