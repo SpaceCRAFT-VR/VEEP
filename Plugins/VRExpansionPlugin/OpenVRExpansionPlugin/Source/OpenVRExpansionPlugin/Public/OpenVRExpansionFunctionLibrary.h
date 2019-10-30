@@ -238,8 +238,10 @@ Prop_ImuFactoryAccelerometerBias_Vector3	= 2066,
 Prop_ImuFactoryAccelerometerScale_Vector3	= 2067,
 // reserved 2068
 
-// Driver requested mura correction properties
-Prop_DriverRequestedMuraCorrectionMode_Int32		= 2200,
+// D
+requested mura correction properties
+Prop_D
+RequestedMuraCorrectionMode_Int32		= 2200,
 Prop_DriverRequestedMuraFeather_InnerLeft_Int32		= 2201,
 Prop_DriverRequestedMuraFeather_InnerRight_Int32	= 2202,
 Prop_DriverRequestedMuraFeather_InnerTop_Int32		= 2203,
