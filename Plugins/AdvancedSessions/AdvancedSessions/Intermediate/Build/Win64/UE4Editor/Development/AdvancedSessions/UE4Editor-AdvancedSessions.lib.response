@@ -6,8 +6,8 @@
 /NAME:"UE4Editor-AdvancedSessions.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\ASTRO\Documents\GitHub\VEEP\Intermediate\Build\Win64\VEEPEditor\Development\Engine\SharedPCH.Engine.h.obj"
-"C:\Users\ASTRO\Documents\GitHub\VEEP\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Module.AdvancedSessions.cpp.obj"
-"C:\Users\ASTRO\Documents\GitHub\VEEP\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Module.AdvancedSessions.gen.cpp.obj"
-"C:\Users\ASTRO\Documents\GitHub\VEEP\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\PCLaunch.rc.res"
-/OUT:"C:\Users\ASTRO\Documents\GitHub\VEEP\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\UE4Editor-AdvancedSessions.lib"
+"C:\Users\ASTRO Titan\Documents\github\VEEP\Intermediate\Build\Win64\VEEPEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\ASTRO Titan\Documents\github\VEEP\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Module.AdvancedSessions.cpp.obj"
+"C:\Users\ASTRO Titan\Documents\github\VEEP\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Module.AdvancedSessions.gen.cpp.obj"
+"C:\Users\ASTRO Titan\Documents\github\VEEP\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\PCLaunch.rc.res"
+/OUT:"C:\Users\ASTRO Titan\Documents\github\VEEP\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\UE4Editor-AdvancedSessions.lib"
