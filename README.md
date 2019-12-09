@@ -7,9 +7,9 @@
 4.	Run Python Package
 5.	Open SpaceCRAFT.exe
 Most up to date files and instructions will be located on the SpaceCRAFT-VR VEEP Repository on Github, linked here:
-https://github.com/SpaceCRAFT-VR/VEEP/tree/River_Environment
+https://github.com/SpaceCRAFT-VR/VEEP
 ----------------
-Written by Neil McHenry on December 9th, 2019
-E-mail: neilmchenry@gmail.com
+Written by Neil McHenry on December 9th, 2019<br/>
+E-mail: neilmchenry@gmail.com<br/>
 Phone: (210) 802-2021
 
