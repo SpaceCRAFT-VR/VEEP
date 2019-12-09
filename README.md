@@ -1,6 +1,6 @@
 # Virtual Reality Enhanced Exercise Protocol (VEEP) Github Repository
 
-#Ex+VR Setup Instructions Draft (MMED VR Protocol):
+**Ex+VR Setup Instructions Draft (MMED VR Protocol):**
 1.	Open Steam VR
 2.	Hook up HTC-VIVE (VR Head Mounted Display)
 3.	Open Labview
